@@ -18,7 +18,6 @@ public class Tallerium
     public static final String MOD_ID = "tallerium";
     private static final Logger LOGGER = LogUtils.getLogger();
     public Tallerium()
-            //F
     {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
